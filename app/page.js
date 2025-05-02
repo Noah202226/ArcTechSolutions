@@ -3,7 +3,7 @@ export default function Home() {
     <section className="hero min-h-screen bg-base-200">
       <div className="hero-content text-center">
         <div className="max-w-md">
-          <h1 className="text-xl md:text-5xl font-bold text-orange-500">{`Website is still constructing...`}</h1>
+          <h1 className="text-sm md:text-lg font-bold text-orange-500">{`Website is still constructing...`}</h1>
           <h2 className="text-2xl md:text-5xl font-bold">
             Welcome to ARC TECH SOLUTIONS
           </h2>
